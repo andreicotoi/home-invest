@@ -1,0 +1,8 @@
+$accordion-button-focus-box-shadow: 0 0 0;
+$accordion-icon-transition: transform 3s ease-in-out;
+$accordion-button-bg: rgb(33, 37, 41);
+$accordion-button-active-bg: rgb(33, 37, 41);
+$accordion-button-color: rgba(255, 255, 255, .55);
+$accordion-button-active-color: rgba(255, 255, 255, .55);
+
+@import "../node_modules/bootstrap/scss/bootstrap";

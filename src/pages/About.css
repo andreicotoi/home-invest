@@ -1,0 +1,24 @@
+.about-container {
+	width: 100%;
+	height: calc(100vh - 48px);
+	display: flex;
+	justify-content: center;
+	background-color: #0c0d0e;
+	color: #ffffffad;
+	padding: 5% 0;
+	overflow: hidden;
+}
+
+.about-text {
+	display: flex;
+	flex-direction: column;
+	gap: 2%;
+	align-items: center;
+	text-align: justify;
+	overflow: auto;
+}
+
+.about-text div {
+	width: 50%;
+	text-indent: 5%;
+}
