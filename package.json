@@ -1,15 +1,22 @@
 {
-  "name": "homeinvest",
+  "name": "app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "bootstrap": "^5.2.3",
+    "emailjs-com": "^3.2.0",
+    "file-saver": "^2.0.5",
+    "firebase": "^9.19.1",
+    "pinch-zoom-js": "^2.3.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "short-uuid": "^4.2.2",
+    "three": "^0.151.2",
+    "tween": "^0.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
